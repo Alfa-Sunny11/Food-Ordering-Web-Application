@@ -1,0 +1,41 @@
+.wrapper{
+    border: 1px solid black;
+    padding: 1%;
+    width: 80%;
+    margin: 0 auto;
+}
+.clear{
+    float: none;
+    clear: both;
+}
+.menu{
+    list-style-type: none;
+    text-align: end;
+}
+
+.menu li{
+    display:inline;
+    padding: 1%;
+    text-decoration: none;
+}
+.menu li a{
+    text-decoration: none;
+}
+.dashboard{
+    padding: 1%;
+    float: left;
+}
+.tbl{
+    width: 90%;
+}
+table tr th{
+    border-bottom: 1px solid black;
+    padding: 1%;
+    text-align: left;
+}
+table tr td{
+    padding: 1%;
+}
+footer{
+    text-align: center;
+}
